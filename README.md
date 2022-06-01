@@ -14,7 +14,7 @@ streamlit run app.py
 ```
 
 # 应用演示
-![演示例子](https://github.com/Armorhtk/Streamlit-UIEDemo/edit/main/img/show_img.gif)
+![演示例子](https://github.com/Armorhtk/Streamlit-UIEDemo/blob/main/img/show_img.gif)
 
 ![演示图片](./img/e2.jpg)
 
