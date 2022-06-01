@@ -1,3 +1,4 @@
 streamlit==1.9.2
 paddlenlp==2.3.1
 paddlepaddle==2.2.2
+pip==22.1.2
