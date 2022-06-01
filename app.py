@@ -53,7 +53,7 @@ if not submit_button:
     st.stop()
 
 ie_model = Taskflow('information_extraction', schema=schema)
-results = ie_model(inputs,topk=20)
+results = ie_model(inputs)
 
 # --- 结果 ---
 with st.container():
