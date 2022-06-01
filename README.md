@@ -1,5 +1,4 @@
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/[user name]/[repo name]/[branch name]/[app path])
+![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
 
 # 说明
 借助Streamlit快速搭建可交互的基于UIE的信息抽取应用
