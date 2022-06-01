@@ -1,7 +1,7 @@
 ![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
 
 # 说明
-借助Streamlit快速搭建可交互的基于UIE的信息抽取应用
+借助Streamlit快速搭建可交互的基于UIE的信息抽取应用 [在线体验](https://share.streamlit.io/armorhtk/streamlit-uiedemo/main/app.py)
 
 目前仅展示了NER部分,待更新...
 
